@@ -1,103 +1,85 @@
 const lunar_eclipse_data = [
-    {
+      {
         id : 1,
-        date : 08-04-2024,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024
-    }
+        date :"20 April 2023",
+        name:"Total Solar Eclipse",
+        location:"Visible in South/East Asia, Australia, Pacific, Indian Ocean, Antarctica.",
+        link_eclipse:"https://www.timeanddate.com/eclipse/solar/2023-april-20",
+        img:"https://en.wikipedia.org/wiki/File:Ecl002-2_(4321047401).jpg",
+    },
      {
         id : 2,
-        date : 02-10-2024,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_October_2,_2024
-    }
-     {
+        date : "14 October 2023",
+        name:"Annular Solar Eclipse",
+        location:"Visible in West in Africa, North America, South America, Pacific, Atlantic, Arctic.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2023-october-14",
+        img:"https://en.wikipedia.org/wiki/File:Annular_Solar_Eclipse_May_10_2013_Northern_Territory_Australia.JPG",
+    },
+    {
         id : 3,
-        date : 12-08-2026,
-       solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026
-    }
- {
+        date :"8 April 2024",
+        name:"Total Solar Eclipse",
+        location:"Visible in West in Europe, North America, North in South America, Pacific, Atlantic, Arctic.",
+        link_eclipse:" https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg/225px-Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg",
+    },
+   {
         id : 4,
-        date : 25-03-2027,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_February_6,_2027
-    }
- {
+        date :"2 October 2024",
+        name:"Annular Solar Eclipse",
+        location:"Visible in South/East Asia, Australia, Pacific, Indian Ocean, Antarctica.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2024-october-2",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eclipse_20160901_center.jpg/225px-Eclipse_20160901_center.jpg",
+    },
+     {
         id : 5,
-        date : 26-01-2028,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_January_26,_2028
-    }
- {
+        date :"29 march 2025",
+        name:"Partial Solar Eclipse",
+        location:"Europe, North in Asia, North/West Africa, Much of North America, North in South America, Atlantic, Arctic",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2025-march-29",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Double_Photobomb_%2821389400576%29.jpg/225px-Double_Photobomb_%2821389400576%29.jpg",
+    },
+     {
         id : 6,
-        date : 25-1-2030,
-       solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_November_25,_2030
-    }
- {
+        date :"21 September 2025",
+        name:"Partial Solar Eclipse",
+        location:"South in Australia, Pacific, Atlantic, Antarctica.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2025-september-21",
+        img:"https://en.wikipedia.org/wiki/File:Partial_solar_eclipse_December_14_2001_Minneapolis.jpg",
+    },
+     {
         id : 7,
-        date : 31-05-2031,
-        solar: https://en.wikipedia.org/wiki/Annular_solar_eclipse
-    }
-      {
+        date :"17 Feb 2026",
+        name:" Annular Solar Eclipse",
+        location:"South in Africa, South in South America, Pacific, Atlantic, Indian Ocean, Antarctica.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2026-february-17",
+        img:"https://en.wikipedia.org/wiki/File:Annular_2003-05-31_Culloden.png",
+    },
+     {
         id : 8,
-        date : 14-11-2031,
-        solar: https://en.wikipedia.org/wiki/Hybrid_solar_eclipse
-    }
-      {
+        date :"12 Aug 2026",
+        name:"  Total Solar Eclipse",
+        location:" Europe, North in Asia, North/West Africa, Much of North America, Pacific, Atlantic, Arctic.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2026-february-17",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Williams_College_wl.jpg/225px-Williams_College_wl.jpg",
+    },
+    {
         id : 9,
-        date :  20-03-2034,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_March_20,_2034
-    }
-      {
+        date :"6 feb 2026",
+        name:" Solar Eclipse Annular",
+        location:" Much of Africa, South America, Pacific, Atlantic, Antarctica.",
+        link_eclipse:" https://www.timeanddate.com/eclipse/solar/2027-february-6",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Solar_Eclipse_from_Riversdale_South_Africa_by_Wim_Filmalter_%283238794030%29_%28cropped%29.jpg/225px-Solar_Eclipse_from_Riversdale_South_Africa_by_Wim_Filmalter_%283238794030%29_%28cropped%29.jpg",
+    },
+     {
         id : 10,
-        date : 12-09-2034,
-        solar: https://en.wikipedia.org/wiki/Annular_solar_eclipse
+        date :"2 Aug 2027",
+        name:"  Total Solar Eclipse ",
+        location:"Europe, South/West Asia, Africa, East in North America, Atlantic, Indian Ocean.",
+        link_eclipse:"https://www.timeanddate.com/eclipse/solar/2027-august-2",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_eclipse%2C_Miles_Landing_8-21-17_%2836842678271%29.jpg/225px-Solar_eclipse%2C_Miles_Landing_8-21-17_%2836842678271%29.jpg",
     }
-      {
-        id : 11,
-        date : 05-09-2038,
-        solar:https://en.wikipedia.org/wiki/Solar_eclipse_of_January_5,_2038
-    }
-      {
-        id : 12,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
-     {
-        id : 13,
-        date : 2038 December 26,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_December_26,_2038
-    }
-     {
-        id : 14,
-        date : 2039 June 21,
-        solar:https://en.wikipedia.org/wiki/Solar_eclipse_of_June_21,_2039
-    }
-     {
-        id : 15,
-        date :2039 December 15,
-        solar:https://en.wikipedia.org/wiki/Total_solar_eclipse
-    }
-     {
-        id : 16,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
-     {
-        id : 17,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
-     {
-        id : 18,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
-     {
-        id : 19,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
-     {
-        id : 20,
-        date : 02-07-2038,
-        solar: https://en.wikipedia.org/wiki/Solar_eclipse_of_July_2,_2038
-    }
+ 
+     
     
 ]
