@@ -5,7 +5,7 @@ const lunar_eclipse_data = [
         name:"Total Solar Eclipse",
         location:"Visible in South/East Asia, Australia, Pacific, Indian Ocean, Antarctica.",
         link_eclipse:"https://www.timeanddate.com/eclipse/solar/2023-april-20",
-        img:"https://en.wikipedia.org/wiki/File:Ecl002-2_(4321047401).jpg",
+        img:"https://drive.google.com/file/d/1MYLfSsWRy_UeFg9Po2pWqHzLEXOkqEy7/view",
     },
      {
         id : 2,
@@ -13,7 +13,7 @@ const lunar_eclipse_data = [
         name:"Annular Solar Eclipse",
         location:"Visible in West in Africa, North America, South America, Pacific, Atlantic, Arctic.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2023-october-14",
-        img:"https://en.wikipedia.org/wiki/File:Annular_Solar_Eclipse_May_10_2013_Northern_Territory_Australia.JPG",
+        img:"https://drive.google.com/file/d/1HpdLRVNorr1_E8Vt94o4buPcVJ9zwKi2/view",
     },
     {
         id : 3,
@@ -21,7 +21,7 @@ const lunar_eclipse_data = [
         name:"Total Solar Eclipse",
         location:"Visible in West in Europe, North America, North in South America, Pacific, Atlantic, Arctic.",
         link_eclipse:" https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg/225px-Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg",
+        img:"https://drive.google.com/file/d/1MYLfSsWRy_UeFg9Po2pWqHzLEXOkqEy7/view",
     },
    {
         id : 4,
@@ -29,7 +29,7 @@ const lunar_eclipse_data = [
         name:"Annular Solar Eclipse",
         location:"Visible in South/East Asia, Australia, Pacific, Indian Ocean, Antarctica.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2024-october-2",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eclipse_20160901_center.jpg/225px-Eclipse_20160901_center.jpg",
+        img:"https://drive.google.com/file/d/1HpdLRVNorr1_E8Vt94o4buPcVJ9zwKi2/view",
     },
      {
         id : 5,
@@ -37,7 +37,7 @@ const lunar_eclipse_data = [
         name:"Partial Solar Eclipse",
         location:"Europe, North in Asia, North/West Africa, Much of North America, North in South America, Atlantic, Arctic",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2025-march-29",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Double_Photobomb_%2821389400576%29.jpg/225px-Double_Photobomb_%2821389400576%29.jpg",
+        img:"https://drive.google.com/file/d/1uvJBEP9TEGA_KP-Udh4cZ9nKoC4Ki3OE/view",
     },
      {
         id : 6,
@@ -45,7 +45,7 @@ const lunar_eclipse_data = [
         name:"Partial Solar Eclipse",
         location:"South in Australia, Pacific, Atlantic, Antarctica.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2025-september-21",
-        img:"https://en.wikipedia.org/wiki/File:Partial_solar_eclipse_December_14_2001_Minneapolis.jpg",
+        img:"https://drive.google.com/file/d/1uvJBEP9TEGA_KP-Udh4cZ9nKoC4Ki3OE/view",
     },
      {
         id : 7,
@@ -53,7 +53,7 @@ const lunar_eclipse_data = [
         name:" Annular Solar Eclipse",
         location:"South in Africa, South in South America, Pacific, Atlantic, Indian Ocean, Antarctica.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2026-february-17",
-        img:"https://en.wikipedia.org/wiki/File:Annular_2003-05-31_Culloden.png",
+        img:"https://drive.google.com/file/d/1HpdLRVNorr1_E8Vt94o4buPcVJ9zwKi2/view",
     },
      {
         id : 8,
@@ -61,15 +61,15 @@ const lunar_eclipse_data = [
         name:"  Total Solar Eclipse",
         location:" Europe, North in Asia, North/West Africa, Much of North America, Pacific, Atlantic, Arctic.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2026-february-17",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Williams_College_wl.jpg/225px-Williams_College_wl.jpg",
+        img:"https://drive.google.com/file/d/1MYLfSsWRy_UeFg9Po2pWqHzLEXOkqEy7/view",
     },
     {
         id : 9,
         date :"6 feb 2026",
-        name:" Solar Eclipse Annular",
+        name:"  Annular Solar Eclipse",
         location:" Much of Africa, South America, Pacific, Atlantic, Antarctica.",
         link_eclipse:" https://www.timeanddate.com/eclipse/solar/2027-february-6",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Solar_Eclipse_from_Riversdale_South_Africa_by_Wim_Filmalter_%283238794030%29_%28cropped%29.jpg/225px-Solar_Eclipse_from_Riversdale_South_Africa_by_Wim_Filmalter_%283238794030%29_%28cropped%29.jpg",
+        img:"https://drive.google.com/file/d/1HpdLRVNorr1_E8Vt94o4buPcVJ9zwKi2/view",
     },
      {
         id : 10,
@@ -77,7 +77,7 @@ const lunar_eclipse_data = [
         name:"  Total Solar Eclipse ",
         location:"Europe, South/West Asia, Africa, East in North America, Atlantic, Indian Ocean.",
         link_eclipse:"https://www.timeanddate.com/eclipse/solar/2027-august-2",
-        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_eclipse%2C_Miles_Landing_8-21-17_%2836842678271%29.jpg/225px-Solar_eclipse%2C_Miles_Landing_8-21-17_%2836842678271%29.jpg",
+        img:"https://drive.google.com/file/d/1MYLfSsWRy_UeFg9Po2pWqHzLEXOkqEy7/view",
     }
  
      
